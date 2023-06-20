@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 <!-- Значок CodeWars -->
 [![CodeWars](https://www.codewars.com/users/matveynis/badges/large)](https://www.codewars.com/users/matveynis)
 
-<!-- Фон в стиле "Акацки" из "Наруто" -->
-![Акацки]((https://bogatyr.club/uploads/posts/2023-03/1679003223_bogatyr-club-p-akatsuki-fon-foni-vkontakte-8.jpg))
 
 <!-- Описание -->
 ## О себе
@@ -47,3 +45,8 @@ Here are some ideas to get you started:
 ***
 
 _На данный момент нахожусь в поисках интересных проектов._
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
