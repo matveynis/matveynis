@@ -24,7 +24,7 @@
 ## Свяжись со мной
 
 - Электронная почта: matveynis1337@mail.ru
--[Tелеграм](https://t.me/matveynis)
+- [Tелеграм](https://t.me/matveynis)
 
 <!-- Футер -->
 ***
