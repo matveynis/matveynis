@@ -1,6 +1,6 @@
 
 <!-- Заголовок -->
-# Привет, я Матвей, студент 4 курса и программист с опытом выполнения лабараторных и codewars :>
+# Привет, я Матвей, студент 4 Государственного Университета Аэрокосмического Приборостроения 
 
 <!-- Значок CodeWars -->
 [![CodeWars](https://www.codewars.com/users/matveynis/badges/large)](https://www.codewars.com/users/matveynis)
